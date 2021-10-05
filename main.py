@@ -1,5 +1,5 @@
 """
-Music Player V5 By Priyo
+Music Player V5 By Sukonna
 """
 try:
     import asyncio
